@@ -1,0 +1,7 @@
+C:\Users\БейсеноваД.CORP.000\source\repos\BuisnessSystem\BuisnessSystem.Console\bin\Debug\BuisnessSystem.Console.exe.config
+C:\Users\БейсеноваД.CORP.000\source\repos\BuisnessSystem\BuisnessSystem.Console\bin\Debug\BuisnessSystem.Console.exe
+C:\Users\БейсеноваД.CORP.000\source\repos\BuisnessSystem\BuisnessSystem.Console\bin\Debug\BuisnessSystem.Console.pdb
+C:\Users\БейсеноваД.CORP.000\source\repos\BuisnessSystem\BuisnessSystem.Console\obj\Debug\BuisnessSystem.Console.csprojAssemblyReference.cache
+C:\Users\БейсеноваД.CORP.000\source\repos\BuisnessSystem\BuisnessSystem.Console\obj\Debug\BuisnessSystem.Console.csproj.CoreCompileInputs.cache
+C:\Users\БейсеноваД.CORP.000\source\repos\BuisnessSystem\BuisnessSystem.Console\obj\Debug\BuisnessSystem.Console.exe
+C:\Users\БейсеноваД.CORP.000\source\repos\BuisnessSystem\BuisnessSystem.Console\obj\Debug\BuisnessSystem.Console.pdb

@@ -1,0 +1,9 @@
+C:\Users\БейсеноваД.CORP.000\source\repos\BuisnessSystem\BuisnessSystem.Models\bin\Debug\BuisnessSystem.Models.dll
+C:\Users\БейсеноваД.CORP.000\source\repos\BuisnessSystem\BuisnessSystem.Models\bin\Debug\BuisnessSystem.Models.pdb
+C:\Users\БейсеноваД.CORP.000\source\repos\BuisnessSystem\BuisnessSystem.Models\bin\Debug\BuisnessSystem.Models.Abstract.dll
+C:\Users\БейсеноваД.CORP.000\source\repos\BuisnessSystem\BuisnessSystem.Models\bin\Debug\BuisnessSystem.Models.Abstract.pdb
+C:\Users\БейсеноваД.CORP.000\source\repos\BuisnessSystem\BuisnessSystem.Models\obj\Debug\BuisnessSystem.Models.csprojAssemblyReference.cache
+C:\Users\БейсеноваД.CORP.000\source\repos\BuisnessSystem\BuisnessSystem.Models\obj\Debug\BuisnessSystem.Models.csproj.CoreCompileInputs.cache
+C:\Users\БейсеноваД.CORP.000\source\repos\BuisnessSystem\BuisnessSystem.Models\obj\Debug\BuisnessSystem.Models.csproj.CopyComplete
+C:\Users\БейсеноваД.CORP.000\source\repos\BuisnessSystem\BuisnessSystem.Models\obj\Debug\BuisnessSystem.Models.dll
+C:\Users\БейсеноваД.CORP.000\source\repos\BuisnessSystem\BuisnessSystem.Models\obj\Debug\BuisnessSystem.Models.pdb
